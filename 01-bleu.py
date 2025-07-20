@@ -26,5 +26,5 @@ print(c_bleu)
 # print(bleu_2)
 # print(bleu_3)
 # print(bleu_4)
-
+print()
 
